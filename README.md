@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ked
 - 👀 Front-end Developer
-- 🌱 I’m currently learning node.js
+- 🌱 
 - 📫 ked.suphawadee[at]gmail.com
 
 <!---
